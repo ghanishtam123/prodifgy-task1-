@@ -1,1 +1,42 @@
-# prodifgy-task1-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="task1.css">
+</head>
+<body>
+  <nav id="navbar">
+    <div class="logo">Vertos Meet</div>
+    <ul>
+      <li><a href="#Home">Home</a></li>
+      <li><a href="#About">About</a></li>
+      <li><a href="#Services">Services</a></li>
+      <li><a href="#Contact">Contact</a></li>
+    </ul>
+  </nav>
+  <section id ="home">
+    <h1>Welcome to Vertos Meet</h1>
+    <p>Your gateway to seamless virtual meetings and collaboration.</p>
+  </section>
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Vertos Meet is a cutting-edge platform designed to facilitate virtual meetings, webinars, and online collaboration. Our mission is to connect people from around the world through innovative technology.</p>
+  </section>
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>High-quality video conferencing</li>
+      <li>Screen sharing and collaboration tools</li>
+      <li>Recording and playback options</li>
+      <li>Customizable meeting rooms</li>
+    </ul>
+  </section>
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>If you have any questions or need assistance, feel free to reach out to us at <a href="mailto:support@vertosmeet.com">support@vertosmeet.com</a>.</p>
+  </section>
+  <script src="script.js"></script>
+</body>
+</html>
